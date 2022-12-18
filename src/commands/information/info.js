@@ -13,9 +13,9 @@ module.exports = {
       .setDescription(`This discord bot is an open-source project. You an star my GitHub repo if you love my work. 
 
 **CREDITS**
-﹒This bot is coded by Sxlitude#8885
-﹒[Click Here](https://discord.gg/KMw8stwEuN) for official server of this bot.
-﹒To invite this bot, [click me](https://dsc.gg/antiwizz)!
+﹒This bot is coded by Kroniclz#5126
+﹒[Click Here](https://discord.gg/Unstable) for official server of this bot.
+﹒To invite this bot, [click me](https://discord.com/api/oauth2/authorize?client_id=1053036527296454718&permissions=8&scope=bot)!
 
 **BOT INFO**
 ﹒Owner :: Sxlitude

@@ -48,7 +48,7 @@ module.exports = {
       new MessageButton()
         .setLabel('Invite Me')
         .setStyle('LINK')
-        .setURL('https://dsc.gg/antiwizz'),
+        .setURL('https://discord.com/api/oauth2/authorize?client_id=1053036527296454718&permissions=8&scope=bot'),
       new MessageButton()
         .setLabel('Support Server')
         .setStyle('LINK')
@@ -96,12 +96,12 @@ module.exports = {
           await i.editReply({
             embeds: [new MessageEmbed()
       .setColor('PURPLE')
-      .setDescription(`This discord bot is an open-source project. You an star my GitHub repo if you love my work. 
+      .setDescription(`This discord bot is an Great bot project. Your an star if you love my work. 
 
 **CREDITS**
-﹒This bot is coded by Sxlitude#8885
-﹒[Click Here](https://discord.gg/KMw8stwEuN) for official server of this bot.
-﹒To invite this bot, [click me](https://dsc.gg/antiwizz)!
+﹒This bot is coded by Kroniclz
+﹒[Click Here](https://discord.gg/Unstable) for official server of this bot.
+﹒To invite this bot, [click me](https://discord.com/api/oauth2/authorize?client_id=1053036527296454718&permissions=8&scope=bot)!
 
 **BOT INFO**
 ﹒Owner :: Sxlitude
@@ -132,7 +132,7 @@ This antinuke bot has many features & all of them are free. This bot only allows
 ﹒anti vanity url snipe
 
 ***LINKS***
-﹒If you love my work, make sure to [star my repo](https://github.com/sxlitude/antinuke)
+﹒If you love my work, make sure to [star my repo](https://discord.com/api/oauth2/authorize?client_id=1053036527296454718&permissions=8&scope=bot)
 ﹒Join the [support server](${Settings.bot.credits.supportServer}) if you need help`);
     
   } else if (embed === 'x') {
